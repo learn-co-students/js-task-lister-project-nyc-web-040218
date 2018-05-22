@@ -1,5 +1,5 @@
 html {
-	background: linear-gradient(blue, pink);
+	background: linear-gradient(blue, #183c82);
 	background-size: cover;
 	height: 100%;
 	min-height: 100%;
@@ -8,6 +8,13 @@ html {
 body {
 	font-family: Helvetica, Arial, sans-serif;
 	padding:20px;
+}
+.hidden{
+    display:none;
+}
+
+.unhidden{
+    display:block;
 }
 
 #wrapper {
