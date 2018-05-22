@@ -1,3 +1,7 @@
+// let lists = []
 class List {
-  // your code here
+  // constructor(title){
+  //   this.title = title;
+  //   lists.push(this);
+  // }
 }
