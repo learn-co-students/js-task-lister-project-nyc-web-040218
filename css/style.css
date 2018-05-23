@@ -128,3 +128,11 @@ button {
 #mocha {
 	background-color: black;
 }
+
+.hidden{
+	display:none;
+ }
+ 
+ .unhidden{
+	display:block;
+ }
